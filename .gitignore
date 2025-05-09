@@ -1,3 +1,22 @@
+# Ignorar carpetas generadas por la compilación
 target/
+
+# Configuración local de Visual Studio Code
 .vscode/
+
+# Archivos de configuración no necesarios
 *.ini
+
+# Archivos de sistema
+*.class
+*.log
+*.tmp
+*.swp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno de desarrollo (opcional)
+*.iml
+.idea/
