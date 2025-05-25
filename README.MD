@@ -1,6 +1,6 @@
 # Proyecto Programación Reactiva - Monitoreo de Temperatura con RxJava
 
-## Trabajado por Mariana Valle Moreno
+## Trabajado por Mariana Valle Moreno y Juan Pablo Benitez 
 
 ---
 
